@@ -21,10 +21,9 @@
 <!-- repo = 'plasma-umass/BLeak' -->
 <!-- commit = 'f9d3c14722e88edcda6520e57533d519b3cce405' -->
 <!-- time = '2018-11-20' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-11-20 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-11-20 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/plasma-umass/BLeak.svg
 [commit]: https://github.com/plasma-umass/BLeak/tree/f9d3c14722e88edcda6520e57533d519b3cce405
@@ -37,7 +36,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
